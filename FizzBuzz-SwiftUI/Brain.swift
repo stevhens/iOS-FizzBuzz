@@ -2,8 +2,8 @@
 //  Brain.swift
 //  FizzBuzz-SwiftUI
 //
-//  Created by David Gunawan on 02/07/20.
-//  Copyright © 2020 David Gunawan. All rights reserved.
+//  Created by Stevhen on 02/07/20.
+//  Copyright © 2020 Stevhen. All rights reserved.
 //
 
 import Foundation

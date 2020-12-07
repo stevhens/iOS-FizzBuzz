@@ -3,7 +3,7 @@
 //  FizzBuzz-SwiftUIUITests
 //
 //  Created by Stevhen on 15/07/20.
-//  Copyright © 2020 David Gunawan. All rights reserved.
+//  Copyright © 2020 Stevhen. All rights reserved.
 //
 
 import XCTest

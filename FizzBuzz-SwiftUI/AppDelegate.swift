@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  FizzBuzz-SwiftUI
 //
-//  Created by David Gunawan on 29/06/20.
-//  Copyright © 2020 David Gunawan. All rights reserved.
+//  Created by Stevhen on 29/06/20.
+//  Copyright © 2020 Stevhen. All rights reserved.
 //
 
 import UIKit

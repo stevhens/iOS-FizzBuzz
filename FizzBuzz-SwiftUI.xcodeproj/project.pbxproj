@@ -497,7 +497,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = davidgun.FizzBuzz;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stevhen.FizzBuzz;
 				PRODUCT_NAME = FizzBuzz;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -517,7 +517,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = davidgun.FizzBuzz;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stevhen.FizzBuzz;
 				PRODUCT_NAME = FizzBuzz;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
