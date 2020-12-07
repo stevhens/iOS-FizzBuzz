@@ -4,7 +4,7 @@
 
 ## Outline
 
-This app makes me learn about Unit Test and UI Test. This app developed in SwiftUI.
+This app makes me learn about Test-Driven Development including Unit Test and UI Test. This app developed in SwiftUI.
 
 ## What is FizzBuzz
 
@@ -12,5 +12,6 @@ FizzBuzz is an group word game app for children to teach them about division. Pl
 
 ## What I've learnt
 
+* Test-Driven Development
 * Unit Testing
 * UI Test
